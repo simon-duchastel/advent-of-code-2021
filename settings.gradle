@@ -1,0 +1,4 @@
+rootProject.name = 'AdventOfCode'
+
+
+enableFeaturePreview('GRADLE_METADATA')
