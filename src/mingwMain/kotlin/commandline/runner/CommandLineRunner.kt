@@ -13,6 +13,7 @@ import commandline.problem10.ProblemTen
 import commandline.problem11.ProblemEleven
 import commandline.problem12.ProblemTwelve
 import commandline.problem13.ProblemThirteen
+import commandline.problem14.ProblemFourteen
 
 /**
  * Guides the user through a flow on the command line to figure out which problem they
@@ -33,7 +34,8 @@ fun main() {
         ProblemTen.action,
         ProblemEleven.action,
         ProblemTwelve.action,
-        ProblemThirteen.action
+        ProblemThirteen.action,
+        ProblemFourteen.action
     ))
 }
 
